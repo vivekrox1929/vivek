@@ -1,0 +1,32 @@
+{
+    "Sheet 1": [
+        {
+            "Target": "dgSAP",
+            "Source": "sapEcc"
+        },
+        {
+            "Target": "dgSAP",
+            "Source": "Hana"
+        },
+        {
+            "Target": "dgSAP",
+            "Source": "bw"
+        },
+        {
+            "Target": "sdbSAP",
+            "Source": "Maximo"
+        },
+        {
+            "Target": "sdbSAP",
+            "Source": "SF"
+        },
+        {
+            "Target": "sdbMax",
+            "Source": "Oracle"
+        },
+        {
+            "Target": "sdbMax",
+            "Source": "IBM"
+        }
+    ]
+}
