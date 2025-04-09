@@ -12,7 +12,7 @@
         "Status - Load": "Complete",
         "Status - Postload": "Complete",
         "Overall status": "Postload Validated",
-        "Data Profiling": "100",
+        "Data Profiling": "50",
         "Data Mapping": "75",
         "Build": "89",
         "Profiling Planned": "31-Mar-25",
